@@ -1,9 +1,11 @@
 {
     "models": [
+ 	["阿露亚"],
         ["Mao", "Hiyori"],
         ["Natori"]
     ],
     "messages": [
+	["你好，主人，来看看吗",],
         ["你好，我是Mao", "你好，我是Hiyori",],
         ["你好，我是Naotri",]
     ]
